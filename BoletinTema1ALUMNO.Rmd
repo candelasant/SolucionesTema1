@@ -281,6 +281,6 @@ summary(Model2$coefficients)
 
 lm(Model1)
 lm(Model2)
-
+#c
 
 ```
